@@ -61,6 +61,7 @@ string decompressString(string inputString)
     return resultString;
 }
 
+// Example values and execution 
 string compressStringInput = "HHHHHEEEEELLLLLLOOOOO";
 string decompressStringInput = "H5E5L6O9";
 
